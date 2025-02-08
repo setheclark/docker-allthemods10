@@ -2,7 +2,7 @@
 
 FROM openjdk:21-buster
 
-LABEL version="2.33"
+LABEL version="2.34"
 
 RUN apt-get update && apt-get install -y curl unzip jq && \
     adduser --uid 99 --gid 100 --home /data --disabled-password minecraft
