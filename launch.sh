@@ -2,8 +2,8 @@
 
 set -x
 
-NEOFORGE_VERSION=21.1.116
-SERVER_VERSION=2.34
+NEOFORGE_VERSION=21.1.119
+SERVER_VERSION=2.36
 cd /data
 
 if ! [[ "$EULA" = "false" ]]; then
