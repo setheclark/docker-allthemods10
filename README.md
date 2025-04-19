@@ -60,7 +60,12 @@ Github: https://github.com/Goobaroo/docker-allthemods9
 
 Docker: https://hub.docker.com/repository/docker/goobaroo/allthemods9
 
-## Source (This repo)
+## Source (Original ATM10 repo)
 Github: https://github.com/W3LFARe/docker-allthemods10
 
 Docker: https://registry.hub.docker.com/r/w3lfare/allthemods10 
+
+## Source (This repo)
+Github: https://github.com/setheclark/docker-allthemods10
+
+Docker: https://registry.hub.docker.com/r/sethclark/allthemods10 
